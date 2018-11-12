@@ -4,8 +4,6 @@
 
 ![Resume Preview](githubImages/mainthelp.png)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
-
 ## Download 
 
 To begin using this template, choose one of the following options to get started:
