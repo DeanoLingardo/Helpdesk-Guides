@@ -2,7 +2,7 @@
 
 ## Preview
 
-[![Resume Preview](githubImages/mainthelp.png)
+![Resume Preview](githubImages/mainthelp.png)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
